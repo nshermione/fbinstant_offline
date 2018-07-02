@@ -43,7 +43,6 @@ export class MainScene extends SceneComponent {
 
   onLoad() {
     let sceneService = SceneService.getInstance();
-    sceneService.setMain(this);
     sceneService.addScene(SCENE_TYPE.MAIN, this.mainmenu);
     sceneService.addScene(SCENE_TYPE.LEADERBOARD, this.leaderboard);
     sceneService.addScene(SCENE_TYPE.PLAY, this.play);

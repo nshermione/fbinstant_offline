@@ -301,7 +301,7 @@
     },
     "_contentSize": {
       "__type__": "cc.Size",
-      "width": 161.36,
+      "width": 55.38,
       "height": 40
     },
     "_rotationX": 0,
@@ -338,7 +338,7 @@
     },
     "_isSystemFontUsed": false,
     "_spacingX": 0,
-    "_N$string": "Play Regular",
+    "_N$string": "Play",
     "_N$horizontalAlign": 1,
     "_N$verticalAlign": 1,
     "_N$fontFamily": "Arial",
