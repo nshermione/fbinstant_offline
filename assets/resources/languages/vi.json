@@ -1,0 +1,10 @@
+{
+  "disconnected": "Bạn đã bị mất kết nối",
+  "waitOthers": "Đang đợi người chơi khác",
+  "inviteMessage": "Làm ván không bồ tèo :D",
+  "shareSuccess": "Chia sẻ thành công",
+  "shareFail": "Chia sẻ thất bại",
+  "roomId": "Room ID",
+  "viewerNotice": "Bàn này đã full, bạn chỉ có thể ngồi xem",
+  "playerNotice": "Bạn trở thành người chơi. Bắt đầu tìm nào!"
+}

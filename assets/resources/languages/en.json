@@ -1,0 +1,10 @@
+{
+  "disconnected": "You has been disconnected!",
+  "waitOthers": "Waiting for other players",
+  "inviteMessage": "Make a play!",
+  "shareSuccess": "Share successfully",
+  "shareFail": "Share failed",
+  "roomId": "Room ID",
+  "viewerNotice": "This room is full, you just watch only.",
+  "playerNotice": "You become the player. Let's find numbers!"
+}

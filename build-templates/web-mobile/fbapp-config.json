@@ -1,0 +1,10 @@
+{
+  "instant_games": {
+    "platform_version": "RICH_GAMEPLAY",
+    "custom_update_templates": {
+      "pass_score": {
+        "example": "X just scored Y!"
+      }
+    }
+  }
+}

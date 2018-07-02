@@ -1,0 +1,10 @@
+open sftp://root:123456@10.8.34.3:22/ -privatekey=C:\Users\thinhth2\.ssh\mecorp_pas.ppk -passphrase=123456
+
+lcd "%1%"
+cd "%2%"
+put "%3%"
+
+exit
+
+
+

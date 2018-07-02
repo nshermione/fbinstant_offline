@@ -1,0 +1,31 @@
+#splash {
+    background: #171717 url(./splash.jpg) no-repeat center !important;
+    background-size: 100% 100% !important;
+}
+
+.progress-bar {
+    /*display: none !important;*/
+}
+
+iframe {
+    background: transparent !important;
+}
+#Cocos2dGameContainer div {
+    background: transparent !important;
+}
+#mobile-screen-checker {
+    background-position: 50% 50%;
+    background-color: #3b3b3b;
+    background-repeat: no-repeat;
+    position: absolute;
+    background-size: cover;
+    top: 0px;
+    left: 0px;
+    bottom: 0px;
+    right: 0px;
+    z-index: 10000000;
+    background-image: url(../assets/img/orientation_phone.jpg);
+}
+.hidden {
+    display: none;
+}

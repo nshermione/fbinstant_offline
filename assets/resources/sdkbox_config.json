@@ -1,0 +1,11 @@
+{
+  "android": {
+    "Facebook": {
+      "debug": true
+    },
+    "GoogleAnalytics" : {
+      "trackingCode" : "UA-8933281-14"
+    }
+
+  }
+}
