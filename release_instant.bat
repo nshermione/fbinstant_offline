@@ -1,0 +1,1 @@
+call tools\build_instant.bat
