@@ -1,5 +1,0 @@
-{
-  "serverUrl": "wss://meono.net/socket",
-  "uploadImageUrl": "https://meono.net/api/upload/upload.php",
-  "selectServer": true
-}

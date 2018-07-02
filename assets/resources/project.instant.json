@@ -1,5 +1,4 @@
 {
-  "dev": false,
   "instant": true,
-  "serverUrl": "https://xocaro.io/socket"
+  "dev": false
 }

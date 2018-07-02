@@ -1,18 +1,18 @@
 {
-  "name": "caro-client",
+  "name": "fbinstantgame",
   "version": "1.0.0",
-  "description": "Hello world new project template.",
+  "description": "Cocos creator fbinstant new project template.",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "repository": {
     "type": "git",
-    "url": "git+ssh://git@bitbucket.org/bestteamvn/caro-client.git"
+    "url": "git@github.com:nshermione/fbinstant_offline.git"
   },
   "keywords": [],
   "author": "",
   "license": "ISC",
-  "homepage": "https://bitbucket.org/bestteamvn/caro-client#readme",
+  "homepage": "https://github.com/nshermione/fbinstant_offline",
   "dependencies": {}
 }
