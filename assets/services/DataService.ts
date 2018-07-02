@@ -1,5 +1,5 @@
-import {Config} from '../Config';
-import {UserInfo} from '../../game/Model';
+import {Config} from '../game/Config';
+import {UserInfo} from '../game/Model';
 
 declare const FBInstant: any;
 

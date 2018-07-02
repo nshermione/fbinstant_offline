@@ -1,4 +1,5 @@
 import {Random} from '../core/Random';
+
 export class SoundService {
 
   volume = 1;

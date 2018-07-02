@@ -95,14 +95,14 @@ export class DialogService extends cc.Component {
   //   this.stretchShadow(dlg);
   //   return loseDialog;
   // }
-
-  hideConnecting() {
-    this.removeDialog(DIALOG_TYPE.CONNECTING);
-  }
-
-  hideWaiting() {
-    this.removeDialog(DIALOG_TYPE.WAITING);
-  }
+  //
+  // hideConnecting() {
+  //   this.removeDialog(DIALOG_TYPE.CONNECTING);
+  // }
+  //
+  // hideWaiting() {
+  //   this.removeDialog(DIALOG_TYPE.WAITING);
+  // }
 
   removeDialog(dlg_type) {
     let dlg = this.getDialog(dlg_type);

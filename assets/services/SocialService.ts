@@ -1,5 +1,5 @@
-import {Config} from '../Config';
-import {LeaderBoardItem} from '../../game/Model';
+import {Config} from '../game/Config';
+import {LeaderBoardItem} from '../game/Model';
 
 declare let FBInstant: any;
 

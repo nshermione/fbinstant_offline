@@ -1,10 +1,10 @@
-import {PlayScene} from '../../game/scenes/play/Play';
 import {SocialService} from './SocialService';
-import {Config} from '../Config';
 import {GlobalInfo} from '../core/GlobalInfo';
 import {DataService} from './DataService';
 import {ModelUtils} from '../core/ModelUtils';
-import {Score, UserInfo} from '../../game/Model';
+import {Score, UserInfo} from '../game/Model';
+import {Config} from '../game/Config';
+import {PlayScene} from '../game/scenes/play/Play';
 
 declare var FBInstant: any;
 

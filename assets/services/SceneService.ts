@@ -1,6 +1,5 @@
 import {Promise} from 'es6-promise';
 import {SceneComponent} from '../core/SceneComponent';
-import {MainScene} from '../MainScene';
 import {DialogService} from './DialogService';
 
 export interface SceneInfo {
@@ -13,11 +12,6 @@ export class SceneService {
   curScene;
   stackSceneNames = [];
   stackScenes = [];
-  main: MainScene;
-
-  setMain(main: MainScene) {
-    this.main = main;
-  }
 
   addScene(sceneName, node) {
     this.scenes[sceneName] = node;
