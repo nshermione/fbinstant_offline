@@ -1,6 +1,6 @@
 import {SceneComponent} from '../../../core/SceneComponent';
 import {FadeOutInTransition, SceneService} from '../../../services/SceneService';
-import {SCENE_TYPE} from '../../../core/Constants';
+import {SCENE_TYPE} from '../../Constants';
 const {ccclass, property} = cc._decorator;
 
 declare let FBInstant: any;

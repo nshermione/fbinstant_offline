@@ -1,4 +1,4 @@
-import {GAME_EVENT} from '../../../core/Constants';
+import {GAME_EVENT} from '../../Constants';
 import {NodeUtils} from '../../../core/NodeUtils';
 import {SceneComponent} from '../../../core/SceneComponent';
 const {ccclass, property} = cc._decorator;

@@ -1,6 +1,6 @@
 import {Config} from '../Config';
 import {ResourceService} from './ResourceService';
-import {GAME_EVENT} from '../core/Constants';
+import {GAME_EVENT} from '../game/Constants';
 
 declare var FBInstant: any;
 

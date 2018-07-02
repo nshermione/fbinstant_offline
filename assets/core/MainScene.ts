@@ -1,5 +1,5 @@
 import {SceneComponent} from './SceneComponent';
-import {SCENE_TYPE} from './Constants';
+import {SCENE_TYPE} from '../game/Constants';
 import {TimerComponent, TimerStatic} from './TimerComponent';
 import {GlobalInfo} from './GlobalInfo';
 import {ShaderUtils} from './ShaderUtils';

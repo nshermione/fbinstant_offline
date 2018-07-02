@@ -1,4 +1,4 @@
-import {DIALOG_TYPE, GAME_EVENT} from '../core/Constants';
+import {DIALOG_TYPE, GAME_EVENT} from '../game/Constants';
 import {NodeUtils} from '../core/NodeUtils';
 
 const {ccclass, property} = cc._decorator;
